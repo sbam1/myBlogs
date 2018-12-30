@@ -1,1 +1,13 @@
 
+---
+layout: default
+modal-id: 2
+date: 2018-12-20
+img: java.png
+alt: image-alt
+project-date: Dec 2018
+client: Java Programming
+category: Web Development
+description: 
+
+---
